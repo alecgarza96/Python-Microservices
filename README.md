@@ -1,7 +1,7 @@
 # Python-Microservices
 Microservices demonstration in Python 
 
-#TODO
+# TODO
 delete sqllite instance
 run docker-compose up
 timestap: 12:32
